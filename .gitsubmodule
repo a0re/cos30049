@@ -1,0 +1,6 @@
+[submodule "innovation-frontend"]
+	path = innovation-frontend 
+	url = https://github.com/a0re/innovation-frontend
+[submodule "innovation-backend"]
+	path = innovation-backend
+	url = https://github.com/a0re/innovation-backend
